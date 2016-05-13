@@ -33,6 +33,21 @@ text-align: center;
   background-color: #231f20;
   padding-top: 5px;
 }
-.text-center {
-  color: #fff;
+.button {
+  text-align: center;
+}
+.footer a {
+  color: #BFC0C1;
+}
+.copyright {
+  background-color: #231f20;
+  color: #494849;
+  text-align: center;
+}
+.footer>.col-sm-4 {
+border-left: 1px solid #494849;
+}
+.div1 {
+  height: 80px;
+  padding-top: 10px;
 }
